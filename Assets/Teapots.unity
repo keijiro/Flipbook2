@@ -732,7 +732,7 @@ GameObject:
   - component: {fileID: 1829510364}
   - component: {fileID: 1829510363}
   m_Layer: 11
-  m_Name: VFX
+  m_Name: Teapots
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
