@@ -22,6 +22,13 @@ sealed class Controller : MonoBehaviour
 
     #endregion
 
+    #region Public accessors
+
+    public float Interval { get => _interval; set => _interval = value; }
+    public float Speed { get => _speed; set => _speed = value; }
+
+    #endregion
+
     #region Private variables
 
     Material _material;
